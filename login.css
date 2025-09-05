@@ -1,0 +1,71 @@
+body {
+    background-image: url(image.png);
+}
+
+h1 {
+    color: blue;
+    font-size: xx-large;
+    padding-top: 100px;
+    margin-top: 100px;
+    padding-left: 10px;
+    margin-left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    padding-top: 10px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+input {
+    padding-top: 10px;
+    margin-top: 10px;
+    color: black;
+    border-color: black;
+    border-style: groove;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+button {
+    border-radius: 50%;
+    padding: 10px;
+    margin: 10px;
+    height: 40px;
+    text-align: center;
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(240, 233, 233);
+    padding-left: 10px;
+    margin-left: 10px;
+    padding-top: 10px;
+    margin-top: 30px;
+    padding-left: 20px;
+    margin-left: 60px;
+}
+
+.Username {
+    color: black;
+    padding: 11px 27px;
+    margin-left: 25px;
+    text-align: center;
+}
+
+.Password {
+    color: black;
+    padding: 11px 27px;
+    margin-left: 25px;
+    text-align: center;
+}
+
+a {
+    padding-top: 10px;
+    margin-top: 10px;
+    padding-left: 40px;
+    margin-left: 10px;
+    text-align: center;
+    color: darkred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

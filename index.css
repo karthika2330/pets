@@ -1,0 +1,36 @@
+body{
+    background-image: url(bg4.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    backdrop-filter: 100px;
+}
+h1{
+    color:blue;
+    padding:10px;
+    padding-left: 185px;
+    font-size:xx-large;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+nav,li,a{
+
+    padding-left: 171px;
+    display:flex;
+    text-decoration: none;
+    text-align: center;
+    font-size: 21px;
+    color:navy;                         
+    text-align: center;
+    margin-left: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+nav,li,a:hover{
+    color:orangered;
+}
+p{
+    padding-top: 20px;
+    margin-top: 20px;
+    font-size: xx-large;
+    font-size:50px;
+}

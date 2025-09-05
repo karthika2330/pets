@@ -1,0 +1,48 @@
+body{
+    background-image: url(bg5.jpg);
+    
+}
+h2{
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 10px;
+    color: indigo;
+}
+.text1{
+    font-size: xx-large;
+      font-family:bold;
+    color: black;
+text-align: center;}
+.box{
+    padding: 3px;
+    
+    
+    text-align:center;
+    font-size:x-large;
+    color:darkcyan;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    color: blue;
+    font-size: larger;
+}
+a:hover{
+    color: red;
+}
+.text2{
+    font-size: xx-large;
+    font-family:bold;
+    color: black;
+}
+
+.text3{
+    font-size: xx-large;
+    font-family:bold;
+    color: black;
+}
+.text4{
+    font-size: xx-large;
+    font-family:bold;
+    color: black;
+}
+

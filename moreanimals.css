@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    color:darkred;
+    animation:alternate-reverse;
+    padding-top: 70px;
+}
+h1:hover{
+    color: blue;
+}
+body{
+    background-image: url(img3.jpg);
+    background:cover;
+}
+    div{
+    border-color:black;
+    border-style: solid;
+    border-width:3px;
+    padding: 10px;
+    margin:20px;
+    width: 350px;
+    display: inline-block;
+    text-align: center;
+    padding-top:20px;
+    margin-top: 50px;
+    margin-right: 20px;
+    padding-right: 30px;
+    background-color:lightcyan;}
+    
+
+img{
+    height: 40vh;
+}
+a{
+    padding-top:10px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+p{
+    padding-top: 30px;
+    font-size:xx-large;
+    font-style: oblique;
+}
